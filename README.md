@@ -1,0 +1,2 @@
+# singapore
+singapore AI class
